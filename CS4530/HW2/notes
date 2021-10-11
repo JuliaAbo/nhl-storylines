@@ -1,0 +1,2 @@
+Make a factory pattern for building expressions
+Conditional statements will probably need to take in the JSON to construct 
